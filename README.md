@@ -1,3 +1,25 @@
+# NumPy Coding Exercises and Projects
+
+Welcome to the "NumPy Coding Exercises and Projects" repository! This collection is designed to enhance your proficiency in NumPy, a powerful numerical computing library for Python. Below is an overview of the contents available in this repository:
+
+## Coding Exercises
+
+Explore a variety of NumPy coding exercises to sharpen your skills in handling arrays, mathematical operations, and more. Each exercise provides a coding challenge along with solutions to help you understand the concepts better.
+
+## Projects
+
+Engage in real-world projects that apply NumPy to solve practical problems. These projects are designed to give you hands-on experience and showcase how NumPy can be utilized in different scenarios.
+
+## Directory Structure
+
+- **Exercises:**
+...
+
+- **Projects:**
+ ...
+
+Feel free to dive into the exercises and projects, explore the code, and challenge yourself to improve your NumPy proficiency. Happy coding!
+
 # Numpy Skill Development Project
 
 ## Overview
